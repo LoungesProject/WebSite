@@ -1,6 +1,6 @@
 # Welcome to lounges
 
-##A free, open source and excellent project.
+## A free, open source and excellent project.
 
 > We hope you will join us and strengthen our strength.
 
